@@ -1,8 +1,8 @@
-# Company Financial Forecast & Valuation Model
+# Velora Athletic Financial Forecast & Valuation Model
 
-An Excel-based financial modeling case study that builds a three-year forecast for **Company Z** and estimates an implied share price using a P/E valuation approach.
+An Excel-based financial modeling case study that builds a three-year forecast for **Velora Athletic** and estimates an implied share price using a P/E valuation approach.
 
-> **Case-study note:** Company Z is a fictional company. All historical figures and forecast assumptions in this project are synthetic and were created solely for educational and portfolio modeling purposes.
+> **Case-study note:** Velora Athletic is a fictional company. All historical figures and forecast assumptions in this project are synthetic and were created solely for educational and portfolio modeling purposes.
 
 ![Company financial model dashboard](screenshots/dashboard.png)
 
